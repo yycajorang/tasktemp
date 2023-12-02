@@ -1,1 +1,1 @@
-whomi >>/tmp/tmp.txt
+whoami >>/tmp/tmp.txt
