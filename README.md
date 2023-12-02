@@ -1,2 +1,1 @@
-# tasktemp
-123
+whomi >>/tmp/tmp.txt
